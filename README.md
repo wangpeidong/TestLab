@@ -1,2 +1,2 @@
 # TestLab
-The project used to as a lab to test Java code
+The project is a lab to test Java code
